@@ -1,0 +1,11 @@
+C:\Users\kaide\Desktop\Passive Callouts\PassiveCallouts\PassiveCallouts\bin\Debug\CitizenFX.Core.Client.dll
+C:\Users\kaide\Desktop\Passive Callouts\PassiveCallouts\PassiveCallouts\bin\Debug\FivePD.net.dll
+C:\Users\kaide\Desktop\Passive Callouts\PassiveCallouts\PassiveCallouts\bin\Debug\CitizenFX.Core.Client.xml
+C:\Users\kaide\Desktop\Passive Callouts\PassiveCallouts\PassiveCallouts\bin\Debug\FivePD.net.xml
+C:\Users\kaide\Desktop\Passive Callouts\PassiveCallouts\PassiveCallouts\obj\Debug\PassiveCallouts.csproj.AssemblyReference.cache
+C:\Users\kaide\Desktop\Passive Callouts\PassiveCallouts\PassiveCallouts\obj\Debug\PassiveCallouts.csproj.CoreCompileInputs.cache
+C:\Users\kaide\Desktop\Passive Callouts\PassiveCallouts\PassiveCallouts\obj\Debug\PassiveCallouts.csproj.CopyComplete
+C:\Users\kaide\Desktop\Passive Callouts\PassiveCallouts\PassiveCallouts\bin\Debug\PassiveCallouts.net.dll
+C:\Users\kaide\Desktop\Passive Callouts\PassiveCallouts\PassiveCallouts\bin\Debug\PassiveCallouts.net.pdb
+C:\Users\kaide\Desktop\Passive Callouts\PassiveCallouts\PassiveCallouts\obj\Debug\PassiveCallouts.net.dll
+C:\Users\kaide\Desktop\Passive Callouts\PassiveCallouts\PassiveCallouts\obj\Debug\PassiveCallouts.net.pdb
