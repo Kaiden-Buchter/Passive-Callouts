@@ -59,6 +59,7 @@ namespace PassiveCallouts
         {
             InitBlip(100f);
             UpdateData();
+
             await Task.FromResult(0);
         }
 
